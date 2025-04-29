@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cogs_react/static/js/main.ddb5c21c.js",
+    "main.js": "/cogs_react/static/js/main.9dd7cf06.js",
     "index.html": "/cogs_react/index.html",
-    "main.ddb5c21c.js.map": "/cogs_react/static/js/main.ddb5c21c.js.map"
+    "main.9dd7cf06.js.map": "/cogs_react/static/js/main.9dd7cf06.js.map"
   },
   "entrypoints": [
-    "static/js/main.ddb5c21c.js"
+    "static/js/main.9dd7cf06.js"
   ]
 }
